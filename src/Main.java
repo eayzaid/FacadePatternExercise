@@ -8,7 +8,8 @@ public class Main {
             StudyMode :
                 lower SmartLed intensity
                 make the phone on mode Silent , etc....
-         create your Modes extending from the Mode abstract Class
+         create your Modes extending from the Mode abstract Class , and implement the executeMode method that act on the different 
+         SmartGadget accordingly . 
          */
     }
 }
